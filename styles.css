@@ -1,0 +1,24 @@
+.cajita1{
+    height: 80px;
+    width: 80px;
+    background-color: black;
+}
+.cajita2{
+    height: 80px;
+    width: 80px;
+    background-color: white;
+}
+.cajita3{
+    height: 80px;
+    width: 80px;
+    background-color: darkblue;
+}
+.contenedor{
+    background-color: blueviolet;
+    height: 400px;
+    width: 400px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
